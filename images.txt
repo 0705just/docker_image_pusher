@@ -2,4 +2,4 @@ garethflowers/svn-server:1.2.1
 postgres:12.22-bookworm
 postgres:15
 postgres:17.2
-
+mysql:8.0.40-debian
