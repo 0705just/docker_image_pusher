@@ -1,8 +1,8 @@
-garethflowers/svn-server:1.2.1
-postgres:12.22-bookworm
-postgres:15
-postgres:17.2
-mysql:8.0.40-debian
-redis:8.0-M02-bookworm
-redis:8.0-M02
-gitea:nightly
+#garethflowers/svn-server:1.2.1
+#postgres:12.22-bookworm
+#postgres:15
+#postgres:17.2
+#mysql:8.0.40-debian
+#redis:8.0-M02-bookworm
+#redis:8.0-M02
+gitea/gitea:1.23-nightly
