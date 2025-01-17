@@ -5,3 +5,4 @@ postgres:17.2
 mysql:8.0.40-debian
 redis:8.0-M02-bookworm
 redis:8.0-M02
+gitea:nightly
